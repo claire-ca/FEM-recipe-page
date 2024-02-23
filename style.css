@@ -83,12 +83,12 @@ body {
 .preparation,
 .ingredients,
 .instructions {
-  margin-bottom: 2.5rem;
+  margin-bottom: 2rem;
 }
 .ingredients,
 .instructions {
   border-bottom: 1px solid var(--border);
-  padding-bottom: 2.5rem;
+  padding-bottom: 2rem;
 }
 .intro__title {
   color: var(--highlight-text);
@@ -119,7 +119,7 @@ body {
 .nutritional-info__title {
   color: var(--primary-color);
   font-size: 28px;
-  padding-bottom: 1.5rem;
+  padding-bottom: 1rem;
   font-family: 'Young Serif', serif;
   font-weight: 400;
 }
@@ -160,6 +160,7 @@ body {
   }
   tr:last-of-type td {
     border-bottom: 0;
+    padding-bottom: 0;
   }
 }
 footer {
